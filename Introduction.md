@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @W0lf-0
+- 👀 I’m interested in discord bot coding
+- 🌱 I’m currently learning discord.js 
+- 💞️ I’m looking to collaborate with people that instrested to make a nice-looking dicord bot
+- 📫 You reach me on discord, my tag is W0lf_Th3_Pr0#5006 (just dm me saying ur from github)
